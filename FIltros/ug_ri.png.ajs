@@ -1,0 +1,4 @@
+#AJS
+filter Filter2 {
+{ draw $[src.class] }
+}
